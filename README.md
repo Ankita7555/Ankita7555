@@ -9,6 +9,14 @@ I enjoy solving complex data problems and designing systems where data quality t
 🎓 Bachelor’s in Information Technology @[VPKBIET](https://www.vpkbiet.org/)  
 🎓 Diploma in Information Technolog @[Government polytechnic Pune](https://gppune.ac.in/userindex.php)
 
+🎓 Master’s in Computer Science @ DePaul University
+💻 Senior Data Engineer @ Onix
+⚙️ Data Engineer @ Datametica
+💻 Software Engineer @ Capgemini
+🎓 Bachelor’s in Information Technology @ VPKBIET
+🎓 Diploma in Information Technology @ Government Polytechnic Pune
+
+
 ---
 
 ## 👩‍💻 About Me
