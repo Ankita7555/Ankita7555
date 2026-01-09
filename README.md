@@ -26,25 +26,16 @@ I am currently pursuing a Master’s degree in Computer Science. Previously, I w
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, SQL, Java  
-- **Big Data:** Apache Spark, PySpark, Databricks concepts  
+- **Languages:** Python, SQL, Java, R  
+- **Big Data:** Hadoop , Hive , Pig , Apache Spark, PySpark, Databricks concepts  
 - **Data Engineering:** ETL/ELT, analytics engineering, data quality testing, data lineage  
 - **Data Modeling:** Fact/Dimension, Star & Snowflake schemas, ODS  
-- **Orchestration:** Airflow concepts  
+- **Orchestration:** Airflow   
 - **Cloud & Warehousing:** Google Cloud Platform (BigQuery, Cloud Storage, DataFlow , Kafka , Airflow , pub sub ), Snowflake; AWS (S3, Redshift, Glue, EMR – prior experience)
 - **DevOps:** Git, CI/CD pipelines, automated testing  
 - **BI & Analytics:** Looker concepts, semantic layers, dashboard enablement  , Tableau , PowerBI
 
 ---
-
-## 📈 Highlights
-- Built and supported **25+ production data pipelines**
-- Processed **1000+ TB** of structured and semi-structured data
-- Achieved **99.9%+ data accuracy** using automated data quality frameworks
-- Collaborated with cross-functional teams across **3+ enterprise projects**
-
----
-
 
 ## 📫 Connect With Me
 - **LinkedIn:** https://linkedin.com/in/ankitakshirsagar  
