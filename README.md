@@ -1,6 +1,6 @@
 # Hi, I’m Ankita Kshirsagar  :)
 
-Build scalable data pipelines that turn raw data into trusted, analytics-ready systems. My work focuses on Python, SQL, Spark, and cloud data platforms with an emphasis on quality and performance. I enjoy working on complex data challenges where accuracy and reliability truly matter. 
+I enjoy solving complex data problems and designing systems where data quality truly matters.
 
 ---
 
