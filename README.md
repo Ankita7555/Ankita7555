@@ -1,16 +1,16 @@
-# Hi, I’m Ankita Kshirsagar :)
+# Hi, I’m Ankita Kshirsagar  :)
 
 Data Engineer | Python • SQL • Spark • Airflow • Cloud Data Platforms  - GCP / AWS |  
 Master’s in Computer Science @DePaul University
 
---
+---
 
 ## 👩‍💻 About Me
 I am a Data Engineer with 4+ years of experience designing, building, and optimizing scalable data pipelines and analytics platforms. I have worked on enterprise-scale data systems across banking, telecom, and cloud environments, focusing on data quality, reliability, and performance. I enjoy solving complex data problems and building systems that deliver trusted, analytics-ready data.
 
 I am currently pursuing a Master’s degree in Computer Science. Previously, I worked as a Research Assistant, and I currently serve as a Graduate Student Assistant, tutoring Data Structures and Algorithms. These roles have strengthened my problem-solving abilities, technical foundations, and my ability to clearly communicate complex concepts.
 
---
+---
 
 ## 🛠️ Technical Skills
 - **Languages:** Python, SQL, Java  
@@ -22,15 +22,7 @@ I am currently pursuing a Master’s degree in Computer Science. Previously, I w
 - **DevOps:** Git, CI/CD pipelines, automated testing  
 - **BI & Analytics:** Looker concepts, semantic layers, dashboard enablement  
 
---
-
-## ⭐ Featured Projects
-- **End-to-End Data Pipeline** – Cloud-based ELT pipeline with orchestration, testing, and CI/CD  
-- **Spark ETL & Lakehouse Processing** – Large-scale batch transformations with PySpark  
-- **Data Warehouse Modeling** – Dimensional models and analytics-ready SQL datasets  
-- **Data Quality & Observability** – Automated validation, anomaly detection, and monitoring  
-
---
+---
 
 ## 📈 Highlights
 - Built and supported **25+ production data pipelines**
@@ -44,6 +36,14 @@ I am currently pursuing a Master’s degree in Computer Science. Previously, I w
 ## 📫 Connect With Me
 - **LinkedIn:** https://linkedin.com/in/ankitakshirsagar  
 - **Email:** kshirsagarankita24@gmail.com  
+
+---
+
+## 📜 Certifications
+- Oracle SQL Associate Certification – [CERTIFICATE](https://www.credly.com/badges/d0285d22-606e-48ed-9177-92bdda1ff187?source=linked_in_profile)
+- Professional Google Cloud Database – [*In Progress* ](https://www.credly.com/badges/147bc63b-1b1a-4703-8aae-94d3ab3b251f) 
+- Apache Airflow 3 Certification – [*Coursework & Hands-on Experience*  ](https://www.credly.com/badges/80f2942f-d285-4691-8e95-0be182bf4ae5/public_url)
+- AWS Data Engineer Certificate - In Progress 
 
 ---
 
