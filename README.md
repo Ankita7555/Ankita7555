@@ -20,7 +20,7 @@ I am currently pursuing a Master’s degree in Computer Science. Previously, I w
 - **Orchestration:** Airflow concepts  
 - **Cloud & Warehousing:** Google Cloud Platform (BigQuery, Cloud Storage, DataFlow , Kafka , Airflow , pub sub ), Snowflake; AWS (S3, Redshift, Glue, EMR – prior experience)
 - **DevOps:** Git, CI/CD pipelines, automated testing  
-- **BI & Analytics:** Looker concepts, semantic layers, dashboard enablement  
+- **BI & Analytics:** Looker concepts, semantic layers, dashboard enablement  , Tableau , PowerBI
 
 ---
 
@@ -41,7 +41,7 @@ I am currently pursuing a Master’s degree in Computer Science. Previously, I w
 
 ## 📜 Certifications
 - Oracle SQL Associate Certification – [CERTIFICATE](https://www.credly.com/badges/d0285d22-606e-48ed-9177-92bdda1ff187?source=linked_in_profile)
-- Professional Google Cloud Database – [*In Progress* ](https://www.credly.com/badges/147bc63b-1b1a-4703-8aae-94d3ab3b251f) 
+- Professional Google Cloud Database – [CERTIFICATE](https://www.credly.com/badges/147bc63b-1b1a-4703-8aae-94d3ab3b251f)
 - Apache Airflow 3 Certification – [*Coursework & Hands-on Experience*  ](https://www.credly.com/badges/80f2942f-d285-4691-8e95-0be182bf4ae5/public_url)
 - AWS Data Engineer Certificate - In Progress 
 
