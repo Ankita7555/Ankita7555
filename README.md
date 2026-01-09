@@ -3,18 +3,13 @@
 I enjoy solving complex data problems and designing systems where data quality truly matters.
 
 🎓 Master’s in Computer Science @[DePaul University](https://www.depaul.edu/Pages/default.aspx)
+
 💻 Senior Data Engineer @[Onix](https://www.onixnet.com/)
 ⚙️ Data Engineer @[Datametica  ](https://www.datametica.com/) 
 💻 Software Engineer @[Capgemini](https://www.capgemini.com/)  
 🎓 Bachelor’s in Information Technology @[VPKBIET](https://www.vpkbiet.org/)  
 🎓 Diploma in Information Technolog @[Government polytechnic Pune](https://gppune.ac.in/userindex.php)
 
-🎓 Master’s in Computer Science @ DePaul University
-💻 Senior Data Engineer @ Onix
-⚙️ Data Engineer @ Datametica
-💻 Software Engineer @ Capgemini
-🎓 Bachelor’s in Information Technology @ VPKBIET
-🎓 Diploma in Information Technology @ Government Polytechnic Pune
 
 
 ---
