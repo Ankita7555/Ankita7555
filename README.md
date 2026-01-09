@@ -1,6 +1,6 @@
 # Hi, I’m Ankita Kshirsagar :)
 
-Data Engineer | Python • SQL • Spark • Airflow • Cloud Data Platforms  - GCP / AWS 
+Data Engineer | Python • SQL • Spark • Airflow • Cloud Data Platforms  - GCP / AWS |  
 Master’s in Computer Science @DePaul University
 
 --
