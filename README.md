@@ -2,13 +2,15 @@
 
 I enjoy solving complex data problems and designing systems where data quality truly matters.
 
-🎓 Master’s in Computer Science @[DePaul University](https://www.depaul.edu/Pages/default.aspx)
+💻 Graduate Student Assistant - Tutor @[DePaul Tutor](https://my.cdm.depaul.edu/v2/Public/Tutors)  
 
 💻 Senior Data Engineer @[Onix](https://www.onixnet.com/)
 
 ⚙️ Data Engineer @[Datametica  ](https://www.datametica.com/) 
 
 💻 Software Engineer @[Capgemini](https://www.capgemini.com/)  
+
+🎓 Master’s in Computer Science @[DePaul University](https://www.depaul.edu/Pages/default.aspx)
 
 🎓 Bachelor’s in Information Technology @[VPKBIET](https://www.vpkbiet.org/)  
 
