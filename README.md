@@ -14,7 +14,7 @@ I enjoy solving complex data problems and designing systems where data quality t
 
 🎓 Bachelor’s in Information Technology @[VPKBIET](https://www.vpkbiet.org/)  
 
-🎓 Diploma in Information Technolog @[Government polytechnic Pune](https://gppune.ac.in/userindex.php)
+🎓 Diploma in Information Technology @[Government polytechnic Pune](https://gppune.ac.in/userindex.php)
 
 
 
