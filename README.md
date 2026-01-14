@@ -49,7 +49,7 @@ I am currently pursuing a Master’s degree in Computer Science. Previously, I w
 - Oracle SQL Associate Certification – [CERTIFICATE](https://www.credly.com/badges/d0285d22-606e-48ed-9177-92bdda1ff187?source=linked_in_profile)
 - Professional Google Cloud Database – [CERTIFICATE](https://www.credly.com/badges/147bc63b-1b1a-4703-8aae-94d3ab3b251f)
 - Apache Airflow 3 Certification – [*Coursework & Hands-on Experience*  ](https://www.credly.com/badges/80f2942f-d285-4691-8e95-0be182bf4ae5/public_url)
-- AWS Data Engineer Certificate - In Progress 
+- AWS Data Engineer Certificate - [CERTIFICATE](https://www.credly.com/badges/4de90e1b-5866-40fb-afe6-0502660f0ba2)
 
 ---
 
