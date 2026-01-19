@@ -21,7 +21,7 @@ I enjoy solving complex data problems and designing systems where data quality t
 ---
 
 ## 👩‍💻 About Me
-I am a Data Engineer with 4+ years of experience designing, building, and optimizing scalable data pipelines and analytics platforms. I have worked on enterprise-scale data systems across banking, telecom, and cloud environments, focusing on data quality, reliability, and performance. I enjoy solving complex data problems and building systems that deliver trusted, analytics-ready data.
+I am a Data Engineer with some years of experience designing, building, and optimizing scalable data pipelines and analytics platforms. I have worked on enterprise-scale data systems across banking, telecom, and cloud environments, focusing on data quality, reliability, and performance. I enjoy solving complex data problems and building systems that deliver trusted, analytics-ready data.
 
 I am currently pursuing a Master’s degree in Computer Science. Previously, I worked as a Research Assistant, and I currently serve as a Graduate Student Assistant, tutoring Data Structures and Algorithms. These roles have strengthened my problem-solving abilities, technical foundations, and my ability to clearly communicate complex concepts.
 
