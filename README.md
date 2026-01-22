@@ -4,6 +4,8 @@ I enjoy solving complex data problems and designing systems where data quality t
 
 💻 Graduate Student Assistant - Tutor @[DePaul Tutor](https://my.cdm.depaul.edu/v2/Public/Tutors)  
 
+⚙️ Data Engineer Intern @[predictaBio  ](https://predicta.bio/) 
+
 💻 Senior Data Engineer @[Onix](https://www.onixnet.com/)
 
 ⚙️ Data Engineer @[Datametica  ](https://www.datametica.com/) 
