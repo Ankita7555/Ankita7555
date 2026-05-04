@@ -4,13 +4,13 @@ I enjoy solving complex data problems and designing systems where data quality t
 
 💻 Graduate Student Assistant - Tutor @[DePaul Tutor](https://my.cdm.depaul.edu/v2/Public/Tutors)  
 
-⚙️ Data Engineer Intern @[predictaBio  ](https://predicta.bio/) 
+⚙️ AI Data Engineer Intern @[predictaBio  ](https://predicta.bio/) 
 
 💻 Senior Data Engineer @[Onix](https://www.onixnet.com/)
 
 ⚙️ Data Engineer @[Datametica  ](https://www.datametica.com/) 
 
-💻 Software Engineer @[Capgemini](https://www.capgemini.com/)  
+💻 Data Engineer @[Capgemini](https://www.capgemini.com/)  
 
 🎓 Master’s in Computer Science @[DePaul University](https://www.depaul.edu/Pages/default.aspx)
 
@@ -35,7 +35,7 @@ I am currently pursuing a Master’s degree in Computer Science. Previously, I w
 - **Data Engineering:** ETL/ELT, analytics engineering, data quality testing, data lineage  
 - **Data Modeling:** Fact/Dimension, Star & Snowflake schemas, ODS  
 - **Orchestration:** Airflow   
-- **Cloud & Warehousing:** Google Cloud Platform (BigQuery, Cloud Storage, DataFlow , Kafka , Airflow , pub sub ), Snowflake; AWS (S3, Redshift, Glue, EMR – prior experience)
+- **Cloud & Warehousing:** Google Cloud Platform (BigQuery, Cloud Storage, DataFlow , Kafka , Airflow , pub sub ), Snowflake; AWS (S3, Redshift, Glue, EMR – prior experience) and Azure cloud
 - **DevOps:** Git, CI/CD pipelines, automated testing  
 - **BI & Analytics:** Looker concepts, semantic layers, dashboard enablement  , Tableau , PowerBI
 
